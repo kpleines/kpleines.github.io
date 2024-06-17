@@ -3,3 +3,27 @@ _site
 .jekyll-cache
 .jekyll-metadata
 .DS_Store
+
+
+=======
+### Jekyll ###
+_site
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
+test/dest
+*.gem
+pkg/
+*.swp
+*~
+
+docs/
+### Gulp ###
+package.json
+/node_modules/
+
+
+### Atom ###
+.ftpconfig
+.sftpconfig
+
